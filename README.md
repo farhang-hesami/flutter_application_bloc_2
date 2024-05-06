@@ -1,6 +1,6 @@
 # flutter_application_bloc_2
 
-A new Flutter project.
+This is a very small program to better understand Bloc, which uses Dio packages to communicate with the server and Block to control the program.
 
 ## Getting Started
 
